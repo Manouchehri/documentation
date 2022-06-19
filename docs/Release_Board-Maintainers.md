@@ -51,7 +51,7 @@ The authoritative list of `board.conf` can be found [here](https://github.com/ar
 | nanopineo            | igorpecovnik   |          |
 | nanopineo2           | igorpecovnik   |          |
 | nanopineo2black      | igorpecovnik   |          |
-| nanopineo3           |                |          |
+| nanopineo3           | lpirl          |          |
 | nanopineo4           |                |          |
 | nanopineocore2       |                |          |
 | nanopineoplus2       | teknoid        |          |
@@ -154,6 +154,7 @@ Please make a forum post in the appropriate place instead, where more people may
 | krachlatte     | krachlatte     |
 | lbmendes       | LucasM         |
 | littlecxm      | littlecxm      |
+| lpirl          | lpirl          |
 | NicoD-SBC      | NicoD          |
 | paolosabatino  | jock           |
 | piter75        | piter75        |
